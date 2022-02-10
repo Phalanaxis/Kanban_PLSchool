@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Kanban_PLSchool/static/css/main.17e7e753.css",
-    "main.js": "/Kanban_PLSchool/static/js/main.32a03142.js",
-    "static/media/Inter-Semibold.woff": "/Kanban_PLSchool/static/media/Inter-Semibold.7927acf4b19cd31056d3.woff",
-    "static/media/Inter-regular.woff": "/Kanban_PLSchool/static/media/Inter-regular.cefb4aacf5372fc9e6d9.woff",
-    "static/media/Inter-Semibold.woff2": "/Kanban_PLSchool/static/media/Inter-Semibold.5ac6cfcfe4108829fdfc.woff2",
-    "static/media/Inter-regular.woff2": "/Kanban_PLSchool/static/media/Inter-regular.5e6a773da9d1377fc690.woff2",
-    "static/media/priority-unknown.svg": "/Kanban_PLSchool/static/media/priority-unknown.8488f5e0dffd2c810150.svg",
-    "static/media/priority-low.svg": "/Kanban_PLSchool/static/media/priority-low.371abe080ca9de5322cf.svg",
-    "static/media/search.svg": "/Kanban_PLSchool/static/media/search.2362d732c933a1dfc7a6.svg",
-    "static/media/priority-critical.svg": "/Kanban_PLSchool/static/media/priority-critical.e4b0367e4dc552be7201.svg",
-    "static/media/priority-medium.svg": "/Kanban_PLSchool/static/media/priority-medium.dfcc4bf74399746e9534.svg",
-    "static/media/priority-high.svg": "/Kanban_PLSchool/static/media/priority-high.79f9c19cda44747d9ce6.svg",
-    "index.html": "/Kanban_PLSchool/index.html",
-    "static/media/arrow.svg": "/Kanban_PLSchool/static/media/arrow.4b29a932aa6ecd562722.svg",
-    "main.17e7e753.css.map": "/Kanban_PLSchool/static/css/main.17e7e753.css.map",
-    "main.32a03142.js.map": "/Kanban_PLSchool/static/js/main.32a03142.js.map"
+    "main.css": "/static/css/main.a5da0dab.css",
+    "main.js": "/static/js/main.32a03142.js",
+    "static/media/Inter-Semibold.woff": "/static/media/Inter-Semibold.7927acf4b19cd31056d3.woff",
+    "static/media/Inter-regular.woff": "/static/media/Inter-regular.cefb4aacf5372fc9e6d9.woff",
+    "static/media/Inter-Semibold.woff2": "/static/media/Inter-Semibold.5ac6cfcfe4108829fdfc.woff2",
+    "static/media/Inter-regular.woff2": "/static/media/Inter-regular.5e6a773da9d1377fc690.woff2",
+    "static/media/priority-unknown.svg": "/static/media/priority-unknown.8488f5e0dffd2c810150.svg",
+    "static/media/priority-low.svg": "/static/media/priority-low.371abe080ca9de5322cf.svg",
+    "static/media/search.svg": "/static/media/search.2362d732c933a1dfc7a6.svg",
+    "static/media/priority-critical.svg": "/static/media/priority-critical.e4b0367e4dc552be7201.svg",
+    "static/media/priority-medium.svg": "/static/media/priority-medium.dfcc4bf74399746e9534.svg",
+    "static/media/priority-high.svg": "/static/media/priority-high.79f9c19cda44747d9ce6.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.4b29a932aa6ecd562722.svg",
+    "main.a5da0dab.css.map": "/static/css/main.a5da0dab.css.map",
+    "main.32a03142.js.map": "/static/js/main.32a03142.js.map"
   },
   "entrypoints": [
-    "static/css/main.17e7e753.css",
+    "static/css/main.a5da0dab.css",
     "static/js/main.32a03142.js"
   ]
 }
