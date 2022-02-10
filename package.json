@@ -1,7 +1,7 @@
 {
   "name": "react-app",
   "version": "0.1.0",
-  "homepage": "https://Phalanaxis.github.io/Kanban_PLSchool/",
+  "homepage": "https://phalanaxis.github.io/Kanban_PLSchool",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
