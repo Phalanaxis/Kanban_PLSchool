@@ -1,0 +1,39 @@
+.newIssue {
+    margin: 22px;
+    width: 535px;
+}
+input, select, textarea {
+    border: 1px solid #DDE2E4;
+    outline: none;
+    border-radius: 6px;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 3px 10px;
+}
+.newIssue__container {
+    margin: 22px 0px;
+    display: grid;
+    grid-template-columns: 125px 125px 125px;
+    gap: 10px;
+}
+
+.newIssue__titleInput {
+    width: 100%;
+}
+
+.new-issue__button {
+    padding: 4px 12px;
+    background-color: #4094F7;
+    border: none;
+    border-radius: 6px;
+    color: #F6F8F9;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+textarea {
+    width: 100%;
+    height: 122px;
+    resize: none;
+    margin-bottom: 22px;
+}

@@ -1,0 +1,57 @@
+.issue {
+    margin: 22px;
+}
+
+.issue__title {
+    color: #000000;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.issue__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.issue__storyPoints {
+    padding: 0px 8px;
+    margin: 0px 0px 0px 8px;
+    border-radius: 12px;
+    line-height: 24px;
+    background: #E5E9EB;
+    color: #252C32;
+    font-weight: 600;
+}
+
+.issue__status {
+    text-align:left;
+    color: #6E7C87;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 8px;
+}
+
+.issue__editButton {
+    margin-left: 48px;
+    padding: 4px 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: #F2994A;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.issue__description {
+    margin-top: 52px;
+    font-weight: 600;
+    color: #6E7C87;
+    font-size: 18px;
+    line-height: 32px;
+}

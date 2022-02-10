@@ -1,0 +1,41 @@
+.issue-table { 
+    width: 25%;
+    background-color: #F6F8F9;
+    margin-right: 10px;
+    padding: 12px 8px;
+    border-radius: 6px 6px 0px 0px;
+}
+
+.issue-table__header {
+    text-align:left;
+    color: #6E7C87;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 8px;
+}
+
+.issue-table__title {
+    color: #6E7C87;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+table {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.column:last-child {
+    margin-right: 13px;
+}
+
+.issue-table__body {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    height: 100%;
+}
+

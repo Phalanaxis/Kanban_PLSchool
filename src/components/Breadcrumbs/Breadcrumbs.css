@@ -1,0 +1,16 @@
+.Breadcrumbs {
+    padding-top: 13px;
+    font-size: 13px;
+    line-height: 16px;
+}
+  
+.breadcrumbs__link {
+    text-decoration: none;
+    color: #6E7C87;
+}
+  
+.breadcrumbs__link::after {
+    padding: 0 8px;
+    content: url(/public/img/arrow.svg);
+    cursor: default;
+}
