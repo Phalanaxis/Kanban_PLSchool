@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kanban_PLSchool/static/css/main.17e7e753.css",
-    "main.js": "/Kanban_PLSchool/static/js/main.32a03142.js",
+    "main.js": "/Kanban_PLSchool/static/js/main.f567e9a5.js",
     "static/media/Inter-Semibold.woff": "/Kanban_PLSchool/static/media/Inter-Semibold.7927acf4b19cd31056d3.woff",
     "static/media/Inter-regular.woff": "/Kanban_PLSchool/static/media/Inter-regular.cefb4aacf5372fc9e6d9.woff",
     "static/media/Inter-Semibold.woff2": "/Kanban_PLSchool/static/media/Inter-Semibold.5ac6cfcfe4108829fdfc.woff2",
@@ -15,10 +15,10 @@
     "index.html": "/Kanban_PLSchool/index.html",
     "static/media/arrow.svg": "/Kanban_PLSchool/static/media/arrow.4b29a932aa6ecd562722.svg",
     "main.17e7e753.css.map": "/Kanban_PLSchool/static/css/main.17e7e753.css.map",
-    "main.32a03142.js.map": "/Kanban_PLSchool/static/js/main.32a03142.js.map"
+    "main.f567e9a5.js.map": "/Kanban_PLSchool/static/js/main.f567e9a5.js.map"
   },
   "entrypoints": [
     "static/css/main.17e7e753.css",
-    "static/js/main.32a03142.js"
+    "static/js/main.f567e9a5.js"
   ]
 }
