@@ -13,7 +13,7 @@ const store = createStore(reducer);
 
 ReactDOM.render(
     <Provider store={store}>
-        <BrowserRouter>
+        <BrowserRouter basename = "/Kanban_PLSchool">
             <App/>
         </BrowserRouter>
     </Provider>,
